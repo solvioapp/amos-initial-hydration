@@ -7,11 +7,11 @@
   2) Operating systems
     3) Unix
     3) Windows
-  2) Programming
-    3) Object-Oriented Programming
-    3) Functional Programming
-    3) Metaprogramming
   2) Programming language Theory
+    3) Programming paradigms
+      4) Object-Oriented Programming
+      4) Functional Programming
+      4) Metaprogramming
     3) Types
     3) Semantics of programming languages
       4) Denotational Semantics
@@ -35,7 +35,10 @@
     3) Multi-dimensional databases
 1) Security
 1) Concurrency
+  2) Multicore Theory
 1) Artificial intelligence
+  2) Machine learning
+    3) Natural language processing
 1) Applied computing
   2) Graphics
   2) ??? DATA SCIENCE ???
