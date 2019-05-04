@@ -12,6 +12,7 @@
   2) Proof theory and constructive mathematics
   2) Algebraic logic
   2) Nonstandard models
+1) Discrete mathematics/Algebra 
   2) Combinatorics
     3) Enumerative combinatorics
     3) Designs and configurations
@@ -70,6 +71,9 @@
     3) Tropical geometry
   2) Linear algebra
     3) Basic linear algebra 
+      4) System of linear equations
+      4) Vector spaces
+      4) Inner product
     3) Special matrices
   2) Associative algebra
     3) Modules, bimodules and ideals
