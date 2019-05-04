@@ -12,7 +12,6 @@
   2) Proof theory and constructive mathematics
   2) Algebraic logic
   2) Nonstandard models
-1) Discrete Mathematics/Algebra
   2) Combinatorics
     3) Enumerative combinatorics
     3) Designs and configurations
@@ -84,7 +83,7 @@
     3) Hopf algebra
   2) Non-associative algebra
     3) Lie algebras
-    3) 
+    3) Jordan algebras
   2) Category theory
     3) Categories and functors
     3) Special categories
@@ -105,13 +104,150 @@
     3) K-theory and operator algebras
     3) Topological K-theory
   2) Group theory
-  Topological groups, Lie groups
-Analysis
-  Real functions
-  Measure and integration
-  Functions of a complex variable
-  Potential theory
-  Several complex variables and analytical spaces
-  ...
-Geometry and topology
+    3) Permutation groups
+    3) Representation theory
+    3) Abstract finite groups
+    3) Structure and classification
+    3) Linear algebraic groups
+    3) Abelian groups
+    3) Groupoids
+    3) Semigroups
+  2) Topological groups, Lie groups
+    3) Locally compact abelian groups
+    3) Compact groups
+    3) Lie groups
+1) Analysis
+  2) Real functions
+    3) Functions of one variable
+    3) Functions of several variables
+    3) Polynomials, rational functions
+    3) Inequalities
+  2) Measure and integration
+    3) Classical measure theory
+    3) Set functions
+    3) Measure-theoretic ergodic theory
+  2) Functions of a complex variable
+    3) Series expansions
+    3) Geometric function theory
+    3) Entire and meromorphic functions
+    3) Riemann surfaces
+    3) Generalized function theory
+    3) Universal holomorphic functions
+  2) Potential theory
+    3) Two-dimensional theory
+    3) Higher-dimensional theory
+    3) Axiomatic potential theory
+  2) Several complex variables
+    3) Holomorphic functions
+    3) Local analytic geometry
+    3) Analytic spaces
+    3) Analytic continuation
+    3) Holomorphic convexity
+    3) Geometric convexity
+    3) Automorphic functions
+    3) Complex manifolds
+    3) Differential operators
+  2) Special functions
+    3) Elementary classical functions
+    3) Hypergeometric functions
+    3) Other functions
+  2) Ordinary differential equations
+    3) General theory
+    3) Boundary value problem
+    3) Qualitative theory
+    3) Stability theory
+    3) Asymptotic theory
+    3) Control problem
+  2) Partial differential equations
+    3) General topic
+    3) Representations of solutions
+    3) Elliptic equations
+    3) Parabolic equations
+    3) Hyperbolic equations
+  2) Dynamical systems
+    3) Ergodic theory
+    3) Topological dynamics
+    3) Smooth dynamics
+    3) Local and nonlocal bifurcation theory
+    3) Approximation methods
+  2) Analytical functional equations
+    3) Difference equations
+    3) Analytical functional Inequalities
+  2) Sequences, series
+    3) Convergence and divergence
+    3) Multiple sequences and series
+    3) General summability methods
+    3) Inversion theorems
+  2) Approximations
+  2) Harmonic analysis
+    3) Harmonic analysis in one variable
+    3) Harmonic analysis in several variables
+    3) Nontrigonometric harmonic analysis
+  2) Functional analysis
+    3) Topological linear spaces
+    3) Normed linear spaces
+    3) Inner product spaces
+    3) Linear function spaces
+    3) Distributions, generalized functions
+    3) Measures, integration, derivative
+    3) Topological algebras
+  2) Operator theory
+    3) General theory in operator theory
+    3) Special classes in operator theory
+    3) Ordinary differential operators
+    3) Partial differential operators
+1) Geometry and topology
+  2) Geometry
+    3) Ring geometry
+    3) Metric geometry
+    3) Ordered geometry
+    3) Distance geometry
+    3) Real and complex geometry
+    3) Analytic and descriptive geometry
+  2) Discrete geometry
+    3) General convexity
+    3) Polytopes and polyhedra
+  2) Differential geometry
+    3) Classical differential geometry
+    3) Local differential geometry
+    3) Global differential geometry
+    3) Symplectic geometry
+  2) General topology
+    3) Generalities in general topology
+    3) Basic constructions
+    3) Topological maps
+    3) Special properties
+    3) Peculiar spaces
+    3) Nonstandard topology
+  2) Algebraic topology
+    3) Classical algebraic topology
+    3) (Co)homology
+  2) Manifolds 
+    3) Topological manifolds
+    3) Differential topology
+    3) Topological transformation groups
+    3) Homotopy
+  2) Global analysis
+    3) General theory of differentiable manifolds
+    3) Infinite-dimensional manifolds
 Applied mathematics / other
+  2) Probability theory 
+    3) Foundations of probability theory
+    3) Combinatorial probability
+    3) Distribution theory
+    3) Limit theorems
+    3) Stochastic processes
+    3) Stochastic analysis
+  2) Statistics
+    3) Decision theory
+    3) Sampling theory
+    3) Distribution theory
+    3) Parametric inference
+    3) Design of experiments
+    3) Sequential methods
+  2) Numerical analysis
+    3) Acceleration of convergence
+    3) Probabilistic methods
+    3) Numerical Approximation
+    3) Error analysis
+    3) Graphical methods
