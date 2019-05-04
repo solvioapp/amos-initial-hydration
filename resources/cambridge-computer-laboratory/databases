@@ -1,0 +1,29 @@
+Databases
+1) Presentation
+  https://www.cl.cam.ac.uk/teaching/1819/Databases/database_2018.pdf
+  2) Introduction
+    L) 1
+    T) Database management system
+    T) CRUD operations
+    T) ACID transactions
+    D) 
+  2) Conceptual modeling
+    L) 20
+    T) Entity-relationship model
+    D) 
+  2) The relational model
+    L) 34
+    T) Relational databases
+    D)
+  2) The graph-oriented model
+    L) 71
+    T) Graph databases
+    D) 
+  2) The document-oriented model
+    L) 104
+    T) Document-oriented databases
+    D) 
+  2) The multi-dimensional model
+    L) 123
+    T) Multi-dimensional databases
+    D) 
