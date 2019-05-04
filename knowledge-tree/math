@@ -1,36 +1,110 @@
-Mathematical logic/Foundations of mathematics
-  General logic
-    Classical propositional logic
-    Classical first-order logic
-    Higher order logic and type theory
-    Subsystems of classical logic (including intuitionistic logic)
-    Abstract deductive systems
-    ...
-  Model theory
-  Computability and recursion theory
-  Set theory
-  Proof theory and constructive mathematics
-  Algebraic logic
-  Nonstandard models
-Discrete Mathematics/Algebra
-  Combinatorics
-    Enumerative combinatorics
-    Designs and configurations
-    Graph theory
-    Extremal combinatorics
-    Algebraic combinatorics
-  ORDER, LATTICES, ORDERED ALGEBRAIC STRUCTURES
-  General algebraic systems
-  Number theory
-  Field theory and polynomials
-  Commutative algebra
-  Algebraic geometry
-  Linear and multilinear algebra; matrix theory
-  Associative algrbra
-  Non-associative algebra
-  Category theory; homological algebra
-  K-theory
-  Group theory
+1) Mathematical logic/Foundations of mathematics
+  2) General logic
+    3) Classical propositional logic
+    3) Classical first-order logic
+    3) Higher order logic and type theory
+    3) Subsystems of classical logic
+    3) Intuitionistic logic 
+    3) Abstract deductive systems
+  2) Model theory
+  2) Computability and recursion theory
+  2) Set theory
+  2) Proof theory and constructive mathematics
+  2) Algebraic logic
+  2) Nonstandard models
+1) Discrete Mathematics/Algebra
+  2) Combinatorics
+    3) Enumerative combinatorics
+    3) Designs and configurations
+    3) Graph theory
+    3) Extremal combinatorics
+    3) Algebraic combinatorics
+  2) Ordered algebraic structures
+    3) Ordered sets
+    3) Lattices
+    3) Modular lattices, complemented lattices
+    3) Distributive lattices
+    3) Boolean algebras
+    3) Ordered structures
+  2) General algebraic systems
+    3) Algebraic structures
+    3) Varieties
+  2) Number theory
+    3) Elementary number theory
+    3) Sequences and sets
+    3) Polynomials and matrices
+    3) Diophantine equations
+    3) Forms and linear algebraic groups
+    3) Discontinuous groups and automorphic forms
+    3) Arithmetic algebraic geometry
+    3) Geometry of numbers
+    3) Analytic number theory
+    3) Algebraic number theory
+  2) Field theory and polynomials
+    3) Real and complex fields
+    3) General field theory
+    3) Field extensions
+    3) Homological methods
+    3) Differential and difference algebra
+    3) Topological fields
+  2) Commutative algebra
+    3) Commutative ring theory
+    3) Ring extensions
+    3) Modules and ideals
+    3) Homological methods
+    3) Integral domains
+    3) Local rings and semilocal rings
+    3) Topological rings and Modules
+  2) Algebraic geometry
+    3) Local theory
+    3) Cycles and subschemes
+    3) Families and fibrations
+    3) Birational geometry
+    3) (Co)homology theory
+    3) Diophantine geometry
+    3) Curves
+    3) Higher-dimensional varieties
+    3) Abelian varieties and schemes
+    3) Algebraic groups
+    3) Special varieties
+    3) Affine geometry
+    3) Tropical geometry
+  2) Linear algebra
+    3) Basic linear algebra 
+    3) Special matrices
+  2) Associative algebra
+    3) Modules, bimodules and ideals
+    3) Homological methods
+    3) Representation theory
+    3) Algebras and orders
+    3) Division rings
+    3) Local rings
+    3) Radicals 
+    3) Chain conditions
+    3) Hopf algebra
+  2) Non-associative algebra
+    3) Lie algebras
+    3) 
+  2) Category theory
+    3) Categories and functors
+    3) Special categories
+    3) Categories and theories
+    3) Categories with structures
+    3) Abelian categories
+    3) Categories and geometry
+    3) Homological algebra
+  2) K-theory
+    3) Grothendieck groups and K0
+    3) Whitehead groups and K1
+    3) Steinberg groups and K2
+    3) Higher algebraic K-theory
+    3) K-theory in geometry
+    3) K-theory in number theory
+    3) K-theory of forms 
+    3) Obstructions from topology
+    3) K-theory and operator algebras
+    3) Topological K-theory
+  2) Group theory
   Topological groups, Lie groups
 Analysis
   Real functions
