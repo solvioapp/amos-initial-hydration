@@ -2,6 +2,7 @@
   2) Numerical Analysis
   2) Computer Design
 1) Networks
+  2) Cloud computing
 1) Software organization
   2) Operating systems
     3) Unix
@@ -9,13 +10,18 @@
   2) Programming
     3) Object-Oriented Programming
     3) Functional Programming
+    3) Metaprogramming
   2) Programming language Theory
+    3) Types
     3) Semantics of programming languages
+      4) Denotational Semantics
     3) Programming languages
       4) Java 
       4) C
       4) C++
+      4) Prolog
 1) Computation theory
+  2) Quantum computing
 1) Algorithms
 1) Information systems
   2) Databases
