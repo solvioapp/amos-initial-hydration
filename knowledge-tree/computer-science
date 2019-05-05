@@ -3,6 +3,7 @@
   2) Computer Design
 1) Networks
   2) Cloud computing
+    3) AWS
 1) Software organization
   2) Compiler Theory
   2) Operating systems
@@ -21,8 +22,15 @@
       4) C
       4) C++
       4) Prolog
+      4) Python
+      4) Ruby
+    3) Web development
+      4) Frameworks
+        5) Ruby on Rails
+      4) Web scraping
 1) Computation theory
   2) Quantum computing
+  2) Complexity theory
 1) Algorithms
   2) Random Algorithms 
 1) Information systems
@@ -36,10 +44,25 @@
     3) Graph databases
     3) Multi-dimensional databases
 1) Security
+  2) Formal Verification
+    3) Hoare Logic
 1) Concurrency
   2) Multicore Theory
+  2) Distributed computing
+    3) Blockchain
 1) Artificial intelligence
   2) Machine learning
     3) Natural language processing
+    3) Computer vision 
+    3) Neural networks
+1) Cryptography
 1) Applied computing
   2) Graphics
+  2) Data science
+  2) E-commerce
+  2) Mobile and sensor systems
+    3) Internet of things
+      4) Arduino
+      4) Rasberry Pi
+  2) Optimization
+    3) Discrete optimization
