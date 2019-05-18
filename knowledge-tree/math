@@ -74,6 +74,9 @@
       4) System of linear equations
       4) Vector spaces
       4) Inner product
+      4) Determinant
+      4) Eigenvectors and eigenvalues
+      4) Spectral theorem
     3) Special matrices
   2) Associative algebra
     3) Modules, bimodules and ideals
@@ -108,6 +111,7 @@
     3) K-theory and operator algebras
     3) Topological K-theory
   2) Group theory
+    3) Introductory group theory
     3) Permutation groups
     3) Representation theory
     3) Abstract finite groups
@@ -121,9 +125,14 @@
     3) Compact groups
     3) Lie groups
 1) Analysis
+  2) Foundations in analysis
+    3) Limit
+    3) Continuity
+    3) Derivative
+    3) Integral
   2) Real functions
-    3) Functions of one variable
-    3) Functions of several variables
+    3) Real functions of one variable
+    3) Real functions of several variables
     3) Polynomials, rational functions
     3) Inequalities
   2) Measure and integration
@@ -156,14 +165,14 @@
     3) Hypergeometric functions
     3) Other functions
   2) Ordinary differential equations
-    3) General theory
+    3) General theory of ordinary differential equations
     3) Boundary value problem
     3) Qualitative theory
     3) Stability theory
     3) Asymptotic theory
     3) Control problem
   2) Partial differential equations
-    3) General topic
+    3) General topic of partial differential equations
     3) Representations of solutions
     3) Elliptic equations
     3) Parabolic equations
@@ -202,6 +211,7 @@
     3) Partial differential operators
 1) Geometry and topology
   2) Geometry
+    3) Elementary geometry
     3) Ring geometry
     3) Metric geometry
     3) Ordered geometry
@@ -217,10 +227,10 @@
     3) Global differential geometry
     3) Symplectic geometry
   2) General topology
-    3) Generalities in general topology
-    3) Basic constructions
+    3) Generalities in topology
+    3) Basic constructions in topology
     3) Topological maps
-    3) Special properties
+    3) Special properties in topology
     3) Peculiar spaces
     3) Nonstandard topology
   2) Algebraic topology
