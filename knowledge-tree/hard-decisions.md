@@ -1,0 +1,10 @@
+- Formal languages are part of computer sciences, not linguistics
+- Theory of computation - CS not math
+- History
+- Law
+- Geography
+- Game theory - economics not math
+- Evolutionary psychology - psychology
+- no umbrella terms
+  - applied sciences
+  - information systems
