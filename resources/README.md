@@ -21,3 +21,21 @@ Text
 - Article
 - Paper
 - Book
+
+## Queries
+### Learn
+- learn X
+- learn X online
+- X online course
+- X online degree
+### Academic
+- X paper
+<!-- - X papers -->
+
+### Community
+- X online community
+
+### Resources
+- X podcasts
+- X blogs
+- 

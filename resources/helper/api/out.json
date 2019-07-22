@@ -1,0 +1,162 @@
+statusCode: 200
+{
+  status: 200,
+  msg: 'scrape job terminated successfully',
+  elapsed_ms: 2839,
+  credits_per_keyword: 1,
+  keywords_scraped: 1,
+  num_requests: 1,
+  credits_used: 1,
+  results: {
+    'best OR top papers education theory': {
+      '1': {
+        time: 'Fri, 19 Jul 2019 03:01:48 GMT',
+        num_results: 'About 669,000,000 results (0.38 seconds) ',
+        no_results: false,
+        effective_query: '',
+        right_info: {},
+        top_products: [],
+        right_products: [],
+        top_ads: [],
+        bottom_ads: [],
+        places: [],
+        results: [
+          {
+            link: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5305140/',
+            title: 'Academic Primer Series: Eight Key Papers ' +
+              'about Education ' +
+              'Theoryhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC5305140/CachedSimilar',
+            snippet: 'Many teachers adopt instructional methods based on ' +
+              'assumptions of best practices ... The top three papers ' +
+              'on general education theories and top five papers on ' +
+              '...',
+            visible_link: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5305140/',
+            date: '',
+            rank: 1
+          },
+          {
+            link: 'https://www.ncbi.nlm.nih.gov/pubmed/28210367',
+            title: 'Academic Primer Series: Eight Key Papers about Education ' +
+              'Theory.https://www.ncbi.nlm.nih.gov/pubmed/28210367Similar',
+            snippet: 'Jan 20, 2017 - Academic Primer Series: Eight Key Papers ' +
+              'about Education Theory. ... instructional methods based on ' +
+              'assumptions of best practices without attention to ... ' +
+              'novice and expert educators produced a rank order of the top ' +
+              'papers.',
+            visible_link: 'https://www.ncbi.nlm.nih.gov/pubmed/28210367',
+            date: 'Jan 20, 2017 - ',
+            rank: 2
+          },
+          {
+            link: 'https://www.aresearchguide.com/40-education-research-paper-topics.html',
+            title: '40 Great Education Research Paper Topics - A ' +
+              'Research ' +
+              'Guidehttps://www.aresearchguide.com/40-education-research-paper-topics.htmlCached',
+            snippet: 'Writing an education research paper is your great ' +
+              'opportunity to make innovations that will forever ' +
+              'remain in history. ... You may find agencies which ' +
+              'employ the best experts at writing an education ' +
+              'research paper here: Top 3 Writing Services ... school ' +
+              'and their comparison to the mixed-sex ones; Theoretical ' +
+              'education vs ...',
+            visible_link: 'https://www.aresearchguide.com/40-education-research-paper-topics.html',
+            date: '',
+            rank: 3
+          },
+          {
+            link: 'https://escholarship.org/uc/item/0515741q',
+            title: 'Academic Primer Series: Eight Key Papers about ' +
+              'Education ' +
+              'Theoryhttps://escholarship.org/uc/item/0515741qCached',
+            snippet: 'Many teachers adopt instructional methods based on ' +
+              'assumptions of best ... The top three ranked general ' +
+              'education theories and top five ranked specific ...',
+            visible_link: 'https://escholarship.org/uc/item/0515741q',
+            date: '',
+            rank: 4
+          },
+          {
+            link: 'https://www.papermasters.com/philosophy-education-theories.html',
+            title: 'Education Theories Research Paper Topic ' +
+              'Suggestions to Choose ' +
+              'Fromhttps://www.papermasters.com/philosophy-education-theories.htmlCachedSimilar',
+            snippet: 'Philosophy of Education Theories research papers discuss the ' +
+              'theories that focus ... Bandura Theory - Bandura is best known ' +
+              'for his research surrounding social .... top-down models that ' +
+              'are rooted in direct instruction from teacher to student, ...',
+            visible_link: 'https://www.papermasters.com/philosophy-education-theories.html',
+            date: '',
+            rank: 5
+          },
+          {
+            link: 'https://www.scimagojr.com/journalrank.php?category=3304',
+            title: 'Journal Rankings on Education - ' +
+              'Scimagohttps://www.scimagojr.com/journalrank.php?category=3304Cached',
+            snippet: '1, Review of Educational Research, journal, 5.509 Q1, ' +
+              '132, 24, 88, 2827, 1080 ... 2, Educational Evaluation ' +
+              'and Policy Analysis, journal, 5.021 Q1, 67, 30, 103 ...',
+            visible_link: 'https://www.scimagojr.com/journalrank.php?category=3304',
+            date: '',
+            rank: 6
+          },
+          {
+            link: 'https://www.researchgate.net/post/What_are_the_most_important_papers_in_Learning_Theory_in_21st_century',
+            title: 'What are the most important papers in Learning Theory ' +
+              'in 21st ' +
+              'century?https://www.researchgate.net/.../What_are_the_most_important_papers_in_Learning_...Similar',
+            snippet: 'In learning theory he is a kind of constructionist, ' +
+              'like Seymour Papert. ..... I am an academic ' +
+              "researcher and I don't want a shortcut for the best " +
+              'learning theory. ..... the right strategy for the ' +
+              'circumstance to rise to the top of the list of its ' +
+              'own merits, ...',
+            visible_link: 'https://www.researchgate.net/.../What_are_the_most_important_papers_in_Learning_...',
+            date: '',
+            rank: 7
+          },
+          {
+            link: 'http://www.academia.edu/Documents/in/Educational_Theory',
+            title: 'Educational Theory Research Papers - ' +
+              'Academia.eduwww.academia.edu/Documents/in/Educational_TheoryCachedSimilar',
+            snippet: 'View Educational Theory Research Papers on ' +
+              'Academia.edu for free. ... “Best education practices” ' +
+              'is one of the most important, misunderstood, and ' +
+              'misused ...',
+            visible_link: 'www.academia.edu/Documents/in/Educational_Theory',
+            date: '',
+            rank: 8
+          },
+          {
+            link: 'https://3starlearningexperiences.wordpress.com/2017/02/28/seminal-papers-in-educational-psychology/',
+            title: 'Seminal Papers in Educational Psychology – 3-Star ' +
+              'learning ' +
+              '...https://3starlearningexperiences.wordpress.com/.../seminal-papers-in-educational-psyc...CachedSimilar',
+            snippet: 'Feb 28, 2017 - Seminal Papers in Educational Psychology ' +
+              '.... Psychological theory and the design of innovative ' +
+              'learning environments: On procedures, ..... Do learners ' +
+              'really know best? ..... Pingback: Our Top 3 – Sizzling ' +
+              'Summer Blogs.',
+            visible_link: 'https://3starlearningexperiences.wordpress.com/.../seminal-papers-in-educational-psyc...',
+            date: 'Feb 28, 2017 - ',
+            rank: 9
+          },
+          {
+            link: 'https://journals.sagepub.com/home/tre',
+            title: 'Theory and Research in Education: SAGE ' +
+              'Journalshttps://journals.sagepub.com/home/tre',
+            snippet: 'formerly known as The School Field, is an international ' +
+              'peer reviewed journal that publishes theoretical, ' +
+              'empirical and conjectural papers contributing to th... ' +
+              '... We are very excited to announce that Theory and ' +
+              'Research in Education has been .... for ways to enhance ' +
+              "the site to make sure you're having the best " +
+              'experience.',
+            visible_link: 'https://journals.sagepub.com/home/tre',
+            date: '',
+            rank: 10
+          }
+        ]
+      }
+    }
+  }
+}
